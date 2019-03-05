@@ -1,4 +1,5 @@
 a=50
 b=50
-c=a+b
-print(c)
+c=100
+d=a+b+c
+print(d)
